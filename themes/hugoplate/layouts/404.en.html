@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <main class="flex-grow container mx-auto px-6 py-12 flex items-center justify-center text-center">
+    <div>
+      <h1 class="text-4xl font-bold mb-4">404 - Page Not Found</h1>
+      <p class="text-lg mb-8">
+        The page you are looking for, isn't.
+      </p>
+      <a href="{{ site.BaseURL | relLangURL }}" class="text-blue-600 dark:text-blue-400 hover:underline">
+        Back to somewhere that is
+      </a>
+    </div>
+  </main>
+{{ end }}

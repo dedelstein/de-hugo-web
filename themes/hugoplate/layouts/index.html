@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="flex-grow container mx-auto px-6 py-12 flex items-center justify-center mt-12">
+  <div class="text-center">
+
+    {{ with .Site.Menus.main }}
+      <ul class="space-y-4">
+        {{ range . }}
+          <li>
+            <a href="{{ .URL | absURL }}" 
+               class="homepage-menu-item text-slate-700 dark:text-slate-50 hover:underline "
+               {{ if strings.HasPrefix .URL "http" }}target="_blank" rel="noopener"{{ end }}>
+              {{ .Name }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
+  </div>
+</main>
+{{ end }}

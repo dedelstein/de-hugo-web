@@ -1,0 +1,26 @@
+############# English navigation ##############
+
+# -- Main Menu --
+# The "main" menu is used in the new index.html template to generate your links.
+
+[[main]]
+name = "CV"
+url = "/CV.pdf"
+weight = 10
+
+[[main]]
+name = "Medical Diffusion Model Demo"
+url = "https://diffusion.danedelste.in/"
+weight = 20
+
+#[[main]]
+#name = "Blog"
+#url = "/blog/"
+#weight = 30
+
+
+# footer menu
+#[[footer]]
+#name = "About"
+#url = "/about"
+#weight = 1
