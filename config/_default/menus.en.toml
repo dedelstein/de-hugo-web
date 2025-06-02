@@ -5,13 +5,18 @@
 
 [[main]]
 name = "CV"
-url = "/CV.pdf"
+url = "/cv.pdf"
 weight = 10
 
 [[main]]
 name = "Medical Diffusion Model Demo"
 url = "https://diffusion.danedelste.in/"
 weight = 20
+
+[[main]]
+name = "2048 AI Demo"
+url = "https://2048.danedelste.in/"
+weight = 30
 
 #[[main]]
 #name = "Blog"
