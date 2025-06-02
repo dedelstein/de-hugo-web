@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "www.danedelste.in/"
+#baseURL = "www.danedelste.in/"
+baseURL = "https://peaceful-lamington-29c2c4.netlify.app/"
 # Title of your website (required).
 title = "Dan Edelstein's Internet Presence"
 # Your theme name
