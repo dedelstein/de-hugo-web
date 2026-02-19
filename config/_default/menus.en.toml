@@ -18,6 +18,11 @@ name = "2048 AI Demo"
 url = "https://2048.danedelste.in/"
 weight = 30
 
+[[main]]
+name = "Learning Theory Notes"
+url = "/blog/learning-theory-notes/"
+weight = 40
+
 #[[main]]
 #name = "Blog"
 #url = "/blog/"
