@@ -5,7 +5,7 @@
 
 [[main]]
 name = "CV"
-url = "/cv.pdf"
+url = "/cv/"
 weight = 10
 
 [[main]]

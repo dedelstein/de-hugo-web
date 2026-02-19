@@ -1,5 +1,9 @@
 /* Add your own custom styles here */
 
+.section-sm {
+  padding-block: 0;
+}
+
 
 :root {
   --nav-width: 800px;

@@ -11,4 +11,6 @@ The notes follow Bach's text chapter by chapter. Each chapter includes prelimina
 
 Topics covered include concentration inequalities (Hoeffding, McDiarmid), PAC learning, empirical risk minimization, Rademacher complexity, and optimization for machine learning.
 
-[Download PDF](/Notes_on_Learning_Theory.pdf)
+<p style="text-align: center;"><a href="/Notes_on_Learning_Theory.pdf" style="font-weight: bold;">View PDF</a></p>
+
+<iframe src="/Notes_on_Learning_Theory.pdf" width="100%" height="900px" style="border: none; margin-top: 1rem;"></iframe>
