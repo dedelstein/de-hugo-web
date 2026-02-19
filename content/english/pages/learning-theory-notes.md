@@ -2,10 +2,6 @@
 title: "Notes on Learning Theory"
 meta_title: "Notes on Learning Theory"
 description: "Graduate-level study notes on statistical learning theory based on Francis Bach's Learning Theory from First Principles"
-date: 2026-02-19T00:00:00Z
-categories: ["Machine Learning", "Mathematics"]
-author: "Dan Edelstein"
-tags: ["learning theory", "statistics", "machine learning"]
 draft: false
 ---
 
